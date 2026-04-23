@@ -1,0 +1,1 @@
+# vitest-vscode-workspaceFolder-repro
