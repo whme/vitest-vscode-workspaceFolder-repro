@@ -1,6 +1,6 @@
 # vitest-vscode-workspaceFolder-repro
 
-Minimal reproduction for [vitest-dev/vscode](https://github.com/vitest-dev/vscode): the Vitest VS Code extension does not resolve `${workspaceFolder}` in `vitest.rootConfig` (and other path-valued settings).
+Minimal reproduction for https://github.com/vitest-dev/vscode/issues/778: the Vitest VS Code extension does not resolve `${workspaceFolder}` in `vitest.rootConfig` (and other path-valued settings).
 
 ## Setup
 
